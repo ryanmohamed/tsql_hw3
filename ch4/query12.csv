@@ -1,0 +1,6 @@
+OrderId,CustomerId,EmployeeId,ShipperId,OrderDate,RequiredDate,ShipToDate,Freight,ShipToName,ShipToAddress,ShipToCity,ShipToRegion,ShipToPostalCode,ShipToCountry,UserAuthenticationId,DateAdded,DateOfLastUpdate
+10248,85,5,3,2014-07-04,2014-08-01,2014-07-16,32.38,Ship to 85-B,6789 rue de l'Abbaye,Reims,NULL,10345,France,NULL,NULL,NULL
+10274,85,6,1,2014-08-06,2014-09-03,2014-08-16,6.01,Ship to 85-B,6789 rue de l'Abbaye,Reims,NULL,10345,France,NULL,NULL,NULL
+10295,85,2,2,2014-09-02,2014-09-30,2014-09-10,1.15,Ship to 85-C,7890 rue de l'Abbaye,Reims,NULL,10346,France,NULL,NULL,NULL
+10737,85,2,2,2015-11-11,2015-12-09,2015-11-18,7.79,Ship to 85-C,7890 rue de l'Abbaye,Reims,NULL,10346,France,NULL,NULL,NULL
+10739,85,3,3,2015-11-12,2015-12-10,2015-11-17,11.08,Ship to 85-C,7890 rue de l'Abbaye,Reims,NULL,10346,France,NULL,NULL,NULL
